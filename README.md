@@ -1,10 +1,10 @@
-IsNumberEven. Java tutorials. Simple Input/Output Console Application. Algorithms. 
+IsNumberEven. Java tutorials. Simple Input/Output Console Application. Algorithms.
 A console application in the Java programming language. 
 The program does the following:
   1. Prompts input a natural number (an integer positive).
   2. Calculates a modulo to 2 of the number.
   3. if the modulo is equal 0 the number is even or odd in another case.
-Developed in the Apache NetBeans integrated environment (in the Microsoft Visual Studio Code etitor).
+Developed in the Apache NetBeans integrated environment (in the Microsoft Visual Studio Code editor).
 
 IsNumberEven. Занятия по Java. Консольное приложение. Простой Ввод/вывод. Алгоритмы.
 Консольное приложение написанное на языке программирования Java. 
